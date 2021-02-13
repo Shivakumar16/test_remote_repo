@@ -2,6 +2,8 @@
 test repository in github
 Remote repo file update 1
 update1 from local
+<<<<<<< HEAD
 update2 from remote
 revert check1
-revert check2
+=======
+>>>>>>> parent of 1edc5d9 (Update README.md)
